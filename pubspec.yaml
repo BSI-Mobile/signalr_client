@@ -18,7 +18,7 @@ dependencies:
       url: https://github.com/geekz-reno/sse_channel.git
       ref: main
   message_pack_dart: ^2.0.1
-  http: ^1.1.0
+  http: ^1.1.2
 
 dev_dependencies:
   test: ^1.16.2
